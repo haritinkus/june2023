@@ -7,6 +7,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("MyProgram for Git.....");
 		System.out.println("MyProgram for Git Feature.....");
+		System.out.println("MyProgram for Git Feature2.....");
 
 	}
 
